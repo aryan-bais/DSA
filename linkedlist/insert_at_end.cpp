@@ -17,7 +17,8 @@ int main(){
     tail=head=NULL;
     int arr[]={1,2,3,4,5,6};
     for(int i=0;i<6;i++){
-
+   
+    
     if(head==NULL){
 
         head=new node(arr[i]);
